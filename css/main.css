@@ -95,7 +95,7 @@
     width: 90%;
 }
 
-.about-me_description {
+.about-me__description {
     padding: 30px 0 0 0;
     font-size: 0.87rem;
     font-weight: 300;
@@ -210,7 +210,7 @@
     color: #888;
 }
 
-.client-item_rate {
+.client-item__rate {
     color: #ffd805;
     margin-top: 1.87rem;
 }
